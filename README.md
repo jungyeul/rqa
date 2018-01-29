@@ -1,1 +1,2 @@
-Juyeon Kang and Jungyeul Park (in preparation). Linguistic Models for Requirement Quality Analysis. Will be submitted to Requirements Engineering (Springer). November 2017. 
+Juyeon Kang and Jungyeul Park (To appear). Data Anonymization for Requirements Quality Analysis: a Reproducible Automatic Error Detection Task.  In Proceedings of the 11th edition of the Language Resources and Evaluation Conference (LREC2018). 7-12 May, 2018. Miyazaki, Japan. [[https://www.overleaf.com/read/pktdtnqrtxcv]].
+
