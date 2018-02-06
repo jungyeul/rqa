@@ -1,0 +1,7 @@
+processed 23075 tokens with 1318 phrases; found: 1744 phrases; correct: 1217.
+accuracy:  94.90%; precision:  69.78%; recall:  92.34%; FB1:  79.49
+             AMBI: precision:  40.31%; recall:  70.85%; FB1:  51.38  392
+             COMP: precision:  75.68%; recall:  95.61%; FB1:  84.49  403
+             CONF: precision:  32.56%; recall:  97.67%; FB1:  48.84  129
+             READ: precision:  91.57%; recall:  98.80%; FB1:  95.05  629
+             SING: precision:  71.20%; recall:  90.67%; FB1:  79.77  191

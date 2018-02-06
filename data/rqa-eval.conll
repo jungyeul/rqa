@@ -910,8 +910,7 @@ cut	NN	O
 .	.	O
 
 A	DT	B-READ
-code
-NN	O
+code	NN	O
 change	NN	O
 with	IN	O
 knowledge	NN	O
@@ -1782,8 +1781,7 @@ opening	NN	O
 mode	NN	O
 ;	:	O
 1	CD	O
-ppm
-NNS	O
+ppm	NNS	O
 otherwise	RB	O
 .	.	O
 
@@ -1909,8 +1907,7 @@ is	VBZ	O
 reached	VBN	O
 after	IN	O
 Starter	NNP	O
-Engine
-NNP	O
+Engine	NNP	O
 release	NN	O
 -RRB-	-RRB-	O
 VFM	NN	O
@@ -2558,8 +2555,7 @@ AT1-50-24	NN	O
 .	.	O
 
 The	DT	O
-mobile
-	JJ	O
+mobile	JJ	O
 device	NN	O
 shall	MD	O
 provide	VB	O
@@ -3009,8 +3005,7 @@ constant	JJ	O
 shall	MD	O
 not	RB	O
 exceed	VB	O
-5
-CD	O
+5	CD	O
 minutes	NNS	O
 for	IN	O
 the	DT	O
@@ -3290,9 +3285,9 @@ from	IN	O
 glues	NNS	O
 ,	,	O
 cleaning	VBG	O
-solutions	B-AMBI
-,	,	O	I-AMBI
-or	CC	O	I-AMBI
+solutions	NNS	B-AMBI
+,	,	I-AMBI
+or	CC	I-AMBI
 sharpening	NNS	I-AMBI
 .	.	O
 
@@ -3830,8 +3825,7 @@ acid	NN	O
 -LRB-	-LRB-	O
 and	CC	O
 sodium	NN	O
-chromate
-	NN	O
+chromate	NN	O
 if	IN	O
 applicable	JJ	B-AMBI
 -RRB-	-RRB-	O
@@ -5247,8 +5241,7 @@ SPM	NN	O
 mass	NN	O
 constant	NN	O
 is	VBZ	O
-less
-JJR	O
+less	JJR	O
 than	IN	O
 15	CD	O
 pm	NN	O
@@ -7205,8 +7198,7 @@ aldehyde	NN	O
 BEX	NN	O
 -RRB-	-RRB-	B-AMBI
 or	CC	I-AMBI
-Hydroxy
-	NNP	I-AMBI
+Hydroxy	NNP	I-AMBI
 in	IN	O
 the	DT	O
 case	NN	O
@@ -10475,12 +10467,10 @@ available	JJ	O
 
 If	IN	O
 the	DT	O
-device
-	NN	O
+device	NN	O
 is	VBZ	O
 not	RB	O
-reformed
-	VBN	O
+reformed	VBN	O
 by	IN	O
 the	DT	O
 DO	NN	O
@@ -13862,8 +13852,7 @@ is	VBZ	O
 in	IN	O
 scope	NN	O
 -LSB-	-LRB-	O
--25
-CD	O
+-25	CD	O
 °C	NN	O
 ;	:	O
 +45	CD	O
@@ -20198,8 +20187,7 @@ estimation	NN	O
 scope	NN	O
 outside	IN	O
 the	DT	O
-tension
-NN	O
+tension	NN	O
 scope	NN	O
 defined	VBN	O
 in	IN	O
